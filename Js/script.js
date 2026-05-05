@@ -235,7 +235,7 @@ function playBackgroundMusic() {
     btn.style.cursor = 'pointer';
     document.body.appendChild(btn);
   }
-  audio.volume = 0.4;
+  audio.volume = 0.2;
   audio.loop = true;
   // Intentar reproducir inmediatamente
   audio.play().then(() => {
