@@ -32,6 +32,7 @@ body {
 .dedication-text {
   position:relative;
   margin: 10px auto;
+  margin-top: -10px;
   width: 90%;
   max-width: 500px;
   font-size: 1.05rem;
